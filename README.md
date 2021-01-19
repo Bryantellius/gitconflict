@@ -2,4 +2,4 @@
 
 ## OBJECTIVE
 
-- TO MAKE A MERGE CONFLICTƒ
+- Changed this text
